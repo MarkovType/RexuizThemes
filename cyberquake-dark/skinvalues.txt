@@ -176,13 +176,9 @@ COLOR_RADIOBUTTON_D             '0.3 0.5 0.6'
 // item: scrollbar
 //   uses "scrollbar" images
 COLOR_SCROLLBAR_N               '0.3 0.5 0.6'
-ALPHA_SCROLLBAR_N               1
 COLOR_SCROLLBAR_F               '0.67 0.92 0.96'
-ALPHA_SCROLLBAR_F               1
 COLOR_SCROLLBAR_C               '0.24 0.69 0.80'
-ALPHA_SCROLLBAR_C               1
 COLOR_SCROLLBAR_S               '0.3 0.5 0.6'
-ALPHA_SCROLLBAR_S               1
 WIDTH_SCROLLBAR                 16
 
 // item: server list

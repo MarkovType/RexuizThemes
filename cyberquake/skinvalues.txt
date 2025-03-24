@@ -1,4 +1,4 @@
-title CyberQuake Light (Alpha)
+title CyberQuake Light 0.1
 author [ARG]Mark
 
 //baseskin wickedblue

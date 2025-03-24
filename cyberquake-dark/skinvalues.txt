@@ -84,7 +84,6 @@ ALPHA_CAMPAIGN_DESCRIPTION      0.7
 // item: checkbox
 //   uses "checkbox" images
 COLOR_CHECKBOX_N                '0.3 0.5 0.6'
-ALPHA_CHECKBOX_N                1
 COLOR_CHECKBOX_C                '0.24 0.69 0.80'
 COLOR_CHECKBOX_F                '0.67 0.92 0.96'
 COLOR_CHECKBOX_D                '0.3 0.5 0.6'
@@ -105,7 +104,6 @@ WIDTH_CREDITS                   0.5
 
 // item: crosshair button
 //   uses "crosshairbutton" images
-ALPHA_CROSSHAIR_N               1
 
 // item: cvar list
 ALPHA_CVARLIST_SAVED            1

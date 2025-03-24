@@ -11,4 +11,4 @@ How to create a theme :
 
 Themes under development :
 
-    - CyberQuake Dark 0.2 (0.1 is out)
+    - CyberQuake Dark 1.0 (0.3 is out)
